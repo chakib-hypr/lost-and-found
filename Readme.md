@@ -11,7 +11,7 @@ An API to report lost and found items. Built with Node.js, Express and Supabase.
  
 1. `npm install`
 2. Run `schema.sql` in the Supabase SQL Editor
-3. Copy `.env.example` to `.env` and fill in your values
+3. Fill the `.env` file
 4. `node index.js`
 ## Endpoints
  
